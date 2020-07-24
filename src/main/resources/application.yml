@@ -1,0 +1,5 @@
+azure:
+  cosmosdb:
+    uri: https://rky-cosmosdb.documents.azure.com:443/
+    key: yzBwGJeNVLWVAack5cBhkiec1tksaVAFyi3AWPoK1OZlK0yA7oVwQfSawEizqOEhK3Oc46WUza3kZEUiQR5wBw==
+    database: dev-db
